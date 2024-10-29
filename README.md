@@ -104,11 +104,24 @@ For inquiries, contact me on Telegram [@abid982](https://t.me/abid982)
 
 ### 📈 GitHub Stats
 
-![cwabid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwabid&show_icons=true&hide_border=true&count_private=true&theme=radical)
+<!-- Profile Summary Card -->
+[![Abid's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwabid&theme=radical)](https://github.com/cwabid)
 
+<!-- Contributions Graph -->
+[![Abid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cwabid&bg_color=0d1117&color=ffffff&line=00E676&point=FFFFFF&area=true&hide_border=true)](https://github.com/cwabid)
+
+<!-- Top Languages Used -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwabid&layout=compact&theme=radical&hide_border=true)
+
+<!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cwabid&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwabid&layout=compact&theme=radical&hide_border=true)
+<!-- Total Commits in a Year -->
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=cwabid&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)
+
+<!-- GitHub Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=cwabid&theme=radical)](https://github.com/cwabid)
+
 
 ---
 
