@@ -1,6 +1,4 @@
 <!-- Profile Banner -->
-![My GitHub Banner](./abid2.jpg)
-
 <h2 align="center"> Hi there, I'm Abidul Islam! 👋 </h2>
 <p align="center">
   <em>Full Stack Developer | Automation Expert | CEO of <a href="https://codenvibe.com">Codenvibe</a></em>
