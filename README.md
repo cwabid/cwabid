@@ -1,9 +1,6 @@
-<!-- Banner Image (Optional) -->
-<p align="center">
-  <img src="https://your-banner-url.com" alt="Welcome to Abidul's GitHub Profile" />
-</p>
+<!-- Profile Banner -->
+![My GitHub Banner](./abid2.jpg)
 
-<!-- Introduction -->
 <h2 align="center"> Hi there, I'm Abidul Islam! 👋 </h2>
 <p align="center">
   <em>Full Stack Developer | Automation Expert | CEO of <a href="https://codenvibe.com">Codenvibe</a></em>
@@ -13,6 +10,7 @@
   <a href="https://twitter.com/abidulislam3"><img src="https://img.shields.io/twitter/follow/abidulislam3?style=social"></a>
   <a href="https://linkedin.com/in/abidulislam"><img src="https://img.shields.io/badge/-Abidul%20Islam-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:codewithabid@gmail.com"><img src="https://img.shields.io/badge/Email-codewithabid%40gmail.com-red"></a>
+  <a href="https://instagram.com/abid982"><img src="https://img.shields.io/badge/-Instagram-833AB4?style=flat&logo=Instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -64,21 +62,33 @@
 
 ### 🚀 My Recent Projects
 
-1. **[Arkadia: AI-Powered Legal & Fiduciary Services](https://github.com/abidulislam/arkadia)**
-   - AI-generated legal documents and automated fiduciary services platform with KYC, document signing, and cryptocurrency payments.
-   - **Tech Stack**: Django, Celery, Redis, AWS S3, ChatGPT-4, and PostgreSQL.
+1. **[Clout9.com](https://clout9.com)** - Influencer marketplace platform.
+2. **[BeyondOTC.com (v1)](https://beyondotc.com)** - Crypto OTC platform (first version).
+3. **[BeyondOTC.com (v2)](https://dev.beyondotc.com)** - Crypto OTC platform (second version) with enhanced API functionality.
+4. **[YupooAli.com](https://yupooali.com)** - E-commerce solution.
+5. **[AliHidden.com](https://alihidden.com)** - Custom e-commerce platform for hidden links.
+6. **[E-Visaal.online](https://e-visaal.online)** - Online visa processing platform.
 
-2. **[ALL IN ONE BOT](https://github.com/abidulislam/All-In-One-Bot)**
-   - A powerful Telegram automation bot for mass DM, scraping, and group joining functionalities.
-   - **Tech Stack**: Python, Telethon, PyQt5.
+---
 
-3. **[Yuppo Scraper & eCommerce Uploader](https://github.com/abidulislam/yuppo-scraper)**
-   - Automates scraping of product images and uploads to eCommerce platforms through APIs.
-   - **Tech Stack**: Python, PyQt5, Django.
+### 🤖 Telegram Bots I’ve Built
+For inquiries, contact me on Telegram [@abid982](https://t.me/abid982)
 
-4. **[Codenvibe Website](https://codenvibe.com)**
-   - The official platform for automation bots, web scraping, and custom software development.
-   - **Tech Stack**: Django, Bootstrap.
+1. Mass group joiner bot
+2. Mass info changer bot
+3. Mass account ban checker from session
+4. OTP grabber bot from session
+5. Tg session creator
+6. Mass spam checker
+7. Scraper
+8. Mass DM bot 
+9. Mass group-to-group member adder
+10. Automated group conversation bot
+11. Group Shilling Bot
+12. Telethon <-> Pyrogram session converter
+13. Tg Store Payment Bot (integrated with Binance API)
+14. Aliexpress Affiliate link generator bot (with Aliexpress API)
+15. Auto post schedule bot
 
 ---
 
@@ -94,12 +104,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abidulislam&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Abidul's GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidulislam&theme=radical&hide_border=true" alt="Abidul's GitHub Streak">
-</p>
+![cwabid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwabid&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cwabid&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwabid&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -107,5 +116,6 @@
 
 - 📧 Email: [codewithabid@gmail.com](mailto:codewithabid@gmail.com)
 - 💼 LinkedIn: [Abidul Islam](https://linkedin.com/in/abidulislam)
-- 🌐 Portfolio: [codewithabid.com](https://codewithabid.com)
 - 🐦 Twitter: [@abidulislam3](https://twitter.com/abidulislam3)
+- 📸 Instagram: [@abid982](https://instagram.com/abid982)
+- 🌐 Portfolio: [codewithabid.com](https://codewithabid.com)
