@@ -64,7 +64,7 @@
 
 1. **[Clout9.com](https://clout9.com)** - Influencer marketplace platform.
 2. **[BeyondOTC.com (v1)](https://beyondotc.com)** - Crypto OTC platform (first version).
-3. **[BeyondOTC.com (v2)](https://dev.beyondotc.com)** - Crypto OTC platform (second version) with enhanced API functionality.
+3. **[BeyondOTC.com (v2)](https://beyondotc.com)** - Crypto OTC platform (second version) with enhanced API functionality.
 4. **[YupooAli.com](https://yupooali.com)** - E-commerce solution.
 5. **[AliHidden.com](https://alihidden.com)** - Custom e-commerce platform for hidden links.
 6. **[E-Visaal.online](https://e-visaal.online)** - Online visa processing platform.
@@ -115,7 +115,7 @@ For inquiries, contact me on Telegram [@abid982](https://t.me/abid982)
 ### 💬 Let's Connect
 
 - 📧 Email: [codewithabid@gmail.com](mailto:codewithabid@gmail.com)
-- 💼 LinkedIn: [Abidul Islam](https://linkedin.com/in/abidulislam)
+- 💼 LinkedIn: [Abidul Islam](https://linkedin.com/in/abid982)
 - 🐦 Twitter: [@abidulislam3](https://twitter.com/abidulislam3)
 - 📸 Instagram: [@abid982](https://instagram.com/abid982)
 - 🌐 Portfolio: [codewithabid.com](https://codewithabid.com)
