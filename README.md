@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://twitter.com/abidulislam3"><img src="https://img.shields.io/twitter/follow/abidulislam3?style=social"></a>
-  <a href="https://linkedin.com/in/abidulislam"><img src="https://img.shields.io/badge/-Abidul%20Islam-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/abid982"><img src="https://img.shields.io/badge/-Abidul%20Islam-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:codewithabid@gmail.com"><img src="https://img.shields.io/badge/Email-codewithabid%40gmail.com-red"></a>
   <a href="https://instagram.com/abid982"><img src="https://img.shields.io/badge/-Instagram-833AB4?style=flat&logo=Instagram&logoColor=white"></a>
 </p>
