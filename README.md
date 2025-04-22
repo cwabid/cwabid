@@ -60,12 +60,15 @@
 
 ### 🚀 My Recent Projects
 
-1. **[Clout9.com](https://clout9.com)** - Influencer marketplace platform.
-2. **[BeyondOTC.com (v1)](https://beyondotc.com)** - Crypto OTC platform (first version).
-3. **[BeyondOTC.com (v2)](https://beyondotc.com)** - Crypto OTC platform (second version) with enhanced API functionality.
-4. **[YupooAli.com](https://yupooali.com)** - E-commerce solution.
-5. **[AliHidden.com](https://alihidden.com)** - Custom e-commerce platform for hidden links.
-6. **[E-Visaal.online](https://e-visaal.online)** - Online visa processing platform.
+1. **[Clout9](https://clout9.com)** - Influencer marketplace platform.
+2. **[InflataGolf](https://inflatagolf.com)** - Golf Simulator Booking Platfrom.
+3. **[BeyondOTC](https://beyondotc.com)** - Crypto OTC platform (second version) with enhanced API functionality.
+4. **[YupooAli](https://yupooali.com)** - E-commerce solution.
+5. **[TheGamblingMan](https://thegamblingman.com)** - News & Blog Website
+6. **[AliHidden.com](https://alihidden.com)** - Custom e-commerce platform for hidden links.
+7. **[DocuWay](https://docuway.com)** - Workflow & Document Management System
+8. **[DailyHisab](https://dailyhisab.com)** - An advanced expense tracker, budgeting, Tax file generation, store and business management and more.
+9. **[Automazon](https://automazon.com)** - Affiliate Automation with AI powered Wordpress blog, youtube videos, thumbnails, AI voice script, and many more.
 
 ---
 
