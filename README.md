@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <h2 align="center"> Hi there, I'm Abidul Islam! 👋 </h2>
 <p align="center">
-  <em>Full Stack Developer | Automation Expert | CEO of <a href="https://codenvibe.com">Codenvibe</a></em>
+  <em>Full Stack Developer | Automation Expert | (Founder & CEO)  <a href="https://codenvibe.com">Codenvibe</a></em>
 </p>
 
 <p align="center">
