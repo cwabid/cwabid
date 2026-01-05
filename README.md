@@ -67,20 +67,6 @@
 #### Design & Collaboration
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
-### 🚀 My Recent Projects
-
-1. **[Clout9](https://clout9.com)** - Influencer marketplace platform.
-2. **[InflataGolf](https://inflatagolf.com)** - Golf Simulator Booking Platfrom.
-3. **[BeyondOTC](https://beyondotc.com)** - Crypto OTC platform (second version) with enhanced API functionality.
-4. **[YupooAli](https://yupooali.com)** - E-commerce solution.
-5. **[TheGamblingMan](https://thegamblingman.com)** - News & Blog Website
-6. **[AliHidden.com](https://alihidden.com)** - Custom e-commerce platform for hidden links.
-7. **[DocuWay](https://docuway.com)** - Workflow & Document Management System
-8. **[DailyHisab](https://dailyhisab.com)** - An advanced expense tracker, budgeting, Tax file generation, store and business management and more.
-9. **[Automazon](https://automazon.com)** - Affiliate Automation with AI powered Wordpress blog, youtube videos, thumbnails, AI voice script, and many more.
-
----
 ### 🚀 My Recent Projects
 
 #### SaaS Platforms
