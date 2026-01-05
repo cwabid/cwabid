@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💻 About Me
 
 I’m a **backend-focused software engineer and founder** specializing in **Python, Django, and scalable backend systems**.
 
@@ -37,7 +37,7 @@ Alongside backend engineering, I have strong hands-on experience with **DevOps f
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Backend
 - Python
