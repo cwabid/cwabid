@@ -13,13 +13,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently working on an **AI-powered legal and fiduciary services platform** with automation and document generation for global clients.
-- 🌱 I’m constantly learning new tech like **AI integrations** and expanding my **DevOps** skills.
-- 🚀 I’ve built multiple automation bots, web scraping tools, and custom web applications for a variety of businesses through **Codenvibe**.
-- 💬 Ask me about **Django, Next.js, Automation, APIs, DevOps, or Social Media Bots**.
-- ⚡ Fun Fact: I love to work on challenging problems and automate repetitive tasks to make businesses more efficient.
+I’m a backend-focused software engineer and founder specializing in Python, Django, and scalable backend systems.
+
+My work centers around building production-grade SaaS platforms, automation pipelines, and API-driven systems used by real businesses. I focus on backend architecture, system reliability, and automation rather than frontend-heavy or theme-based development.
+
+Alongside backend engineering, I have strong hands-on experience with DevOps fundamentals and I’m actively diving deeper into infrastructure security and cybersecurity best practices.
 
 ---
 
